@@ -1,0 +1,1472 @@
+Number of entities: 1145
+Valid tirp: 
+event: ['3', '26'], temporal relation: s
+event: ['3', '1'], temporal relation: m
+event: ['3', '12'], temporal relation: <
+event: ['3', '3'], temporal relation: <
+event: ['3', '11'], temporal relation: <
+event: ['3', '2'], temporal relation: <
+event: ['17', '3'], temporal relation: c
+event: ['20', '26'], temporal relation: =
+event: ['20', '29'], temporal relation: =
+event: ['20', '35'], temporal relation: =
+event: ['20', '10'], temporal relation: c
+event: ['20', '1'], temporal relation: c
+event: ['20', '12'], temporal relation: c
+event: ['20', '3'], temporal relation: c
+event: ['20', '11'], temporal relation: f
+event: ['20', '2'], temporal relation: f
+event: ['26', '35'], temporal relation: =
+event: ['26', '10'], temporal relation: c
+event: ['26', '1'], temporal relation: c
+event: ['26', '12'], temporal relation: c
+event: ['26', '3'], temporal relation: c
+event: ['26', '11'], temporal relation: f
+event: ['26', '2'], temporal relation: f
+event: ['29', '3'], temporal relation: c
+event: ['29', '11'], temporal relation: f
+event: ['29', '2'], temporal relation: f
+event: ['35', '10'], temporal relation: c
+event: ['35', '1'], temporal relation: c
+event: ['35', '12'], temporal relation: c
+event: ['35', '3'], temporal relation: c
+event: ['35', '11'], temporal relation: f
+event: ['35', '2'], temporal relation: f
+event: ['10', '12'], temporal relation: m
+event: ['10', '3'], temporal relation: <
+event: ['10', '11'], temporal relation: <
+event: ['10', '2'], temporal relation: <
+event: ['1', '3'], temporal relation: m
+event: ['1', '11'], temporal relation: <
+event: ['1', '2'], temporal relation: <
+event: ['6', '3'], temporal relation: c
+event: ['6', '11'], temporal relation: f
+event: ['6', '2'], temporal relation: f
+event: ['12', '11'], temporal relation: m
+event: ['12', '2'], temporal relation: <
+event: ['3', '2'], temporal relation: m
+event: ['11', '2'], temporal relation: f
+event: ['12', '10'], temporal relation: m
+event: ['12', '12'], temporal relation: <
+event: ['12', '1'], temporal relation: <
+event: ['12', '3'], temporal relation: <
+event: ['12', '29'], temporal relation: <
+event: ['12', '11'], temporal relation: <
+event: ['3', '1'], temporal relation: <
+event: ['3', '10'], temporal relation: <
+event: ['3', '29'], temporal relation: <
+event: ['33', '10'], temporal relation: c
+event: ['33', '12'], temporal relation: c
+event: ['33', '1'], temporal relation: c
+event: ['33', '3'], temporal relation: c
+event: ['26', '20'], temporal relation: f
+event: ['26', '29'], temporal relation: f
+event: ['10', '1'], temporal relation: <
+event: ['10', '10'], temporal relation: <
+event: ['14', '15'], temporal relation: m
+event: ['14', '2'], temporal relation: <
+event: ['1', '1'], temporal relation: <
+event: ['1', '12'], temporal relation: <
+event: ['1', '3'], temporal relation: <
+event: ['1', '10'], temporal relation: <
+event: ['1', '29'], temporal relation: <
+event: ['23', '1'], temporal relation: c
+event: ['23', '3'], temporal relation: c
+event: ['23', '11'], temporal relation: f
+event: ['23', '2'], temporal relation: f
+event: ['6', '1'], temporal relation: c
+event: ['1', '2'], temporal relation: m
+event: ['11', '2'], temporal relation: =
+event: ['26', '33'], temporal relation: =
+event: ['1', '20'], temporal relation: s
+event: ['1', '26'], temporal relation: s
+event: ['26', '6'], temporal relation: =
+event: ['23', '26'], temporal relation: =
+event: ['33', '11'], temporal relation: f
+event: ['33', '2'], temporal relation: f
+event: ['33', '29'], temporal relation: f
+event: ['6', '10'], temporal relation: c
+event: ['10', '11'], temporal relation: m
+Event:
+5
+15
+1
+14
+23
+12
+9
+11
+35
+33
+7
+30
+28
+13
+20
+17
+6
+18
+29
+10
+8
+2
+26
+3
+karma finish
+lego finish
+karmalego finish
+
+
+    ‖ 3
+=========
+26  ‖ c   
+
+Vertical support: 0.857
+
+
+
+    ‖ 2
+=========
+26  ‖ f   
+
+Vertical support: 0.855
+
+
+
+    ‖ 1
+=========
+26  ‖ c   
+
+Vertical support: 0.852
+
+
+
+   ‖ 3
+========
+1  ‖ m   
+
+Vertical support: 0.823
+
+
+
+    ‖ 11
+==========
+26  ‖ f    
+
+Vertical support: 0.818
+
+
+
+   ‖ 1
+========
+3  ‖ m   
+
+Vertical support: 0.815
+
+
+
+    ‖ 2
+=========
+20  ‖ f   
+
+Vertical support: 0.767
+
+
+
+   ‖ 2
+========
+1  ‖ <   
+
+Vertical support: 0.764
+
+
+
+   ‖ 2
+========
+3  ‖ <   
+
+Vertical support: 0.755
+
+
+
+    ‖ 29
+==========
+20  ‖ =    
+
+Vertical support: 0.707
+
+
+
+   ‖ 11
+=========
+1  ‖ <    
+
+Vertical support: 0.694
+
+
+
+   ‖ 11
+=========
+3  ‖ <    
+
+Vertical support: 0.692
+
+
+
+    ‖ 11
+==========
+20  ‖ f    
+
+Vertical support: 0.688
+
+
+
+    ‖ 12
+==========
+26  ‖ c    
+
+Vertical support: 0.688
+
+
+
+    ‖ 2
+=========
+29  ‖ f   
+
+Vertical support: 0.687
+
+
+
+    ‖ 10
+==========
+26  ‖ c    
+
+Vertical support: 0.685
+
+
+
+   ‖ 1
+========
+1  ‖ <   
+
+Vertical support: 0.679
+
+
+
+    ‖ 3   1
+=============
+26  ‖ c   c   
+-------------
+3   ‖     m   
+
+Vertical support: 0.665
+
+
+
+   ‖ 3
+========
+3  ‖ <   
+
+Vertical support: 0.659
+
+
+
+    ‖ 1   3
+=============
+26  ‖ c   c   
+-------------
+1   ‖     m   
+
+Vertical support: 0.652
+
+
+
+    ‖ 1
+=========
+33  ‖ c   
+
+Vertical support: 0.649
+
+
+
+    ‖ 3
+=========
+33  ‖ c   
+
+Vertical support: 0.647
+
+
+
+    ‖ 2
+=========
+12  ‖ <   
+
+Vertical support: 0.634
+
+
+
+   ‖ 3   1
+============
+1  ‖ m   <   
+------------
+3  ‖     m   
+
+Vertical support: 0.632
+
+
+
+    ‖ 35
+==========
+26  ‖ =    
+
+Vertical support: 0.627
+
+
+
+   ‖ 1   3
+============
+3  ‖ m   <   
+------------
+1  ‖     m   
+
+Vertical support: 0.612
+
+
+
+    ‖ 2
+=========
+33  ‖ f   
+
+Vertical support: 0.601
+
+
+
+    ‖ 2
+=========
+10  ‖ <   
+
+Vertical support: 0.596
+
+
+
+    ‖ 33
+==========
+26  ‖ =    
+
+Vertical support: 0.595
+
+
+
+    ‖ 11
+==========
+29  ‖ f    
+
+Vertical support: 0.586
+
+
+
+    ‖ 10
+==========
+12  ‖ m    
+
+Vertical support: 0.584
+
+
+
+    ‖ 2
+=========
+35  ‖ f   
+
+Vertical support: 0.58
+
+
+
+    ‖ 3
+=========
+20  ‖ c   
+
+Vertical support: 0.579
+
+
+
+    ‖ 29
+==========
+26  ‖ f    
+
+Vertical support: 0.578
+
+
+
+    ‖ 11
+==========
+33  ‖ f    
+
+Vertical support: 0.575
+
+
+
+    ‖ 35   2
+==============
+26  ‖ =    f   
+--------------
+35  ‖      f   
+
+Vertical support: 0.572
+
+
+
+    ‖ 1
+=========
+20  ‖ c   
+
+Vertical support: 0.571
+
+
+
+    ‖ 12
+==========
+10  ‖ m    
+
+Vertical support: 0.569
+
+
+
+    ‖ 3
+=========
+35  ‖ c   
+
+Vertical support: 0.564
+
+
+
+   ‖ 3   2
+============
+1  ‖ m   <   
+------------
+3  ‖     <   
+
+Vertical support: 0.561
+
+
+
+    ‖ 1
+=========
+35  ‖ c   
+
+Vertical support: 0.559
+
+
+
+    ‖ 11
+==========
+35  ‖ f    
+
+Vertical support: 0.55
+
+
+
+   ‖ 2
+========
+6  ‖ f   
+
+Vertical support: 0.548
+
+
+
+    ‖ 35   11
+===============
+26  ‖ =    f    
+---------------
+35  ‖      f    
+
+Vertical support: 0.548
+
+
+
+    ‖ 26
+==========
+20  ‖ =    
+
+Vertical support: 0.545
+
+
+
+    ‖ 3   2
+=============
+26  ‖ c   f   
+-------------
+3   ‖     <   
+
+Vertical support: 0.542
+
+
+
+   ‖ 3
+========
+1  ‖ <   
+
+Vertical support: 0.541
+
+
+
+   ‖ 1   2
+============
+3  ‖ m   <   
+------------
+1  ‖     <   
+
+Vertical support: 0.539
+
+
+
+    ‖ 1   2
+=============
+26  ‖ c   f   
+-------------
+1   ‖     <   
+
+Vertical support: 0.529
+
+
+
+   ‖ 1
+========
+3  ‖ <   
+
+Vertical support: 0.528
+
+
+
+    ‖ 10
+==========
+33  ‖ c    
+
+Vertical support: 0.527
+
+
+
+   ‖ 2
+========
+1  ‖ m   
+
+Vertical support: 0.523
+
+
+
+    ‖ 33   2
+==============
+26  ‖ =    f   
+--------------
+33  ‖      f   
+
+Vertical support: 0.522
+
+
+
+    ‖ 26   2
+==============
+20  ‖ =    f   
+--------------
+26  ‖      f   
+
+Vertical support: 0.521
+
+
+
+    ‖ 29   2
+==============
+20  ‖ =    f   
+--------------
+29  ‖      f   
+
+Vertical support: 0.521
+
+
+
+    ‖ 3   3
+=============
+26  ‖ c   c   
+-------------
+3   ‖     <   
+
+Vertical support: 0.519
+
+
+
+    ‖ 11
+==========
+12  ‖ <    
+
+Vertical support: 0.518
+
+
+
+    ‖ 35   3
+==============
+26  ‖ =    c   
+--------------
+35  ‖      c   
+
+Vertical support: 0.518
+
+
+
+    ‖ 1   1
+=============
+26  ‖ c   c   
+-------------
+1   ‖     <   
+
+Vertical support: 0.514
+
+
+
+   ‖ 3   11
+=============
+1  ‖ m   <    
+--------------
+3  ‖     <    
+
+Vertical support: 0.511
+
+
+
+    ‖ 33   3
+==============
+26  ‖ =    c   
+--------------
+33  ‖      c   
+
+Vertical support: 0.511
+
+
+
+   ‖ 11
+=========
+6  ‖ f    
+
+Vertical support: 0.51
+
+
+
+    ‖ 35   1
+==============
+26  ‖ =    c   
+--------------
+35  ‖      c   
+
+Vertical support: 0.509
+
+
+
+    ‖ 3   11
+==============
+26  ‖ c   f    
+--------------
+3   ‖     <    
+
+Vertical support: 0.508
+
+
+
+    ‖ 12
+==========
+33  ‖ c    
+
+Vertical support: 0.507
+
+
+
+   ‖ 1   3
+============
+1  ‖ <   <   
+------------
+1  ‖     m   
+
+Vertical support: 0.506
+
+
+
+   ‖ 26
+=========
+1  ‖ s    
+
+Vertical support: 0.506
+
+
+
+   ‖ 1
+========
+6  ‖ c   
+
+Vertical support: 0.505
+
+
+
+    ‖ 33   11
+===============
+26  ‖ =    f    
+---------------
+33  ‖      f    
+
+Vertical support: 0.505
+
+
+
+    ‖ 33   1
+==============
+26  ‖ =    c   
+--------------
+33  ‖      c   
+
+Vertical support: 0.505
+
+
+
+   ‖ 3
+========
+6  ‖ c   
+
+Vertical support: 0.504
+
+
+
+   ‖ 29
+=========
+1  ‖ <    
+
+Vertical support: 0.502
+
+
+
+   ‖ 3   3
+============
+1  ‖ m   <   
+------------
+3  ‖     <   
+
+Vertical support: 0.5
+
+
+
+    ‖ 3   1
+=============
+33  ‖ c   c   
+-------------
+3   ‖     m   
+
+Vertical support: 0.5
+
+
+
+   ‖ 3   1
+============
+3  ‖ <   <   
+------------
+3  ‖     m   
+
+Vertical support: 0.5
+
+
+
+    ‖ 11
+==========
+10  ‖ <    
+
+Vertical support: 0.494
+
+
+
+    ‖ 1   11
+==============
+26  ‖ c   f    
+--------------
+1   ‖     <    
+
+Vertical support: 0.494
+
+
+
+   ‖ 1   1
+============
+3  ‖ m   <   
+------------
+1  ‖     <   
+
+Vertical support: 0.494
+
+
+
+   ‖ 1   11
+=============
+3  ‖ m   <    
+--------------
+1  ‖     <    
+
+Vertical support: 0.491
+
+
+
+   ‖ 2
+========
+3  ‖ m   
+
+Vertical support: 0.491
+
+
+
+    ‖ 26   11
+===============
+20  ‖ =    f    
+---------------
+26  ‖      f    
+
+Vertical support: 0.488
+
+
+
+   ‖ 29
+=========
+3  ‖ <    
+
+Vertical support: 0.488
+
+
+
+   ‖ 10
+=========
+1  ‖ <    
+
+Vertical support: 0.485
+
+
+
+    ‖ 1   3   1
+=================
+26  ‖ c   c   c   
+-----------------
+1   ‖     m   <   
+-----------------
+3   ‖         m   
+
+Vertical support: 0.484
+
+
+
+    ‖ 1   3
+=============
+33  ‖ c   c   
+-------------
+1   ‖     m   
+
+Vertical support: 0.481
+
+
+
+    ‖ 3   1   3
+=================
+26  ‖ c   c   c   
+-----------------
+3   ‖     m   <   
+-----------------
+1   ‖         m   
+
+Vertical support: 0.478
+
+
+
+    ‖ 11
+==========
+12  ‖ m    
+
+Vertical support: 0.474
+
+
+
+    ‖ 1
+=========
+10  ‖ <   
+
+Vertical support: 0.473
+
+
+
+    ‖ 3
+=========
+12  ‖ <   
+
+Vertical support: 0.472
+
+
+
+    ‖ 35
+==========
+20  ‖ =    
+
+Vertical support: 0.467
+
+
+
+    ‖ 10   12
+===============
+26  ‖ c    c    
+---------------
+10  ‖      m    
+
+Vertical support: 0.466
+
+
+
+   ‖ 12
+=========
+1  ‖ <    
+
+Vertical support: 0.464
+
+
+
+    ‖ 12   10
+===============
+26  ‖ c    c    
+---------------
+12  ‖      m    
+
+Vertical support: 0.464
+
+
+
+    ‖ 1
+=========
+12  ‖ <   
+
+Vertical support: 0.459
+
+
+
+    ‖ 3
+=========
+10  ‖ <   
+
+Vertical support: 0.457
+
+
+
+   ‖ 1   3   1
+================
+3  ‖ m   <   <   
+----------------
+1  ‖     m   <   
+----------------
+3  ‖         m   
+
+Vertical support: 0.457
+
+
+
+    ‖ 26
+==========
+23  ‖ =    
+
+Vertical support: 0.456
+
+
+
+    ‖ 29   11
+===============
+20  ‖ =    f    
+---------------
+29  ‖      f    
+
+Vertical support: 0.456
+
+
+
+   ‖ 3   1   3
+================
+1  ‖ m   <   <   
+----------------
+3  ‖     m   <   
+----------------
+1  ‖         m   
+
+Vertical support: 0.452
+
+
+
+   ‖ 1   2
+============
+3  ‖ m   <   
+------------
+1  ‖     m   
+
+Vertical support: 0.452
+
+
+
+   ‖ 20
+=========
+1  ‖ s    
+
+Vertical support: 0.45
+
+
+
+    ‖ 26   35
+===============
+20  ‖ =    =    
+---------------
+26  ‖      =    
+
+Vertical support: 0.449
+
+
+
+   ‖ 10
+=========
+3  ‖ <    
+
+Vertical support: 0.443
+
+
+
+    ‖ 12   2
+==============
+26  ‖ c    f   
+--------------
+12  ‖      <   
+
+Vertical support: 0.441
+
+
+
+    ‖ 1
+=========
+23  ‖ c   
+
+Vertical support: 0.44
+
+
+
+    ‖ 3
+=========
+23  ‖ c   
+
+Vertical support: 0.439
+
+
+
+    ‖ 10
+==========
+35  ‖ c    
+
+Vertical support: 0.439
+
+
+
+    ‖ 12
+==========
+35  ‖ c    
+
+Vertical support: 0.438
+
+
+
+   ‖ 12
+=========
+3  ‖ <    
+
+Vertical support: 0.438
+
+
+
+    ‖ 11
+==========
+10  ‖ m    
+
+Vertical support: 0.437
+
+
+
+    ‖ 10   2
+==============
+26  ‖ c    f   
+--------------
+10  ‖      <   
+
+Vertical support: 0.436
+
+
+
+    ‖ 35   2
+==============
+20  ‖ =    f   
+--------------
+35  ‖      f   
+
+Vertical support: 0.435
+
+
+
+    ‖ 26   3
+==============
+1   ‖ s    m   
+--------------
+26  ‖      c   
+
+Vertical support: 0.434
+
+
+
+   ‖ 26
+=========
+3  ‖ s    
+
+Vertical support: 0.434
+
+
+
+    ‖ 29
+==========
+33  ‖ f    
+
+Vertical support: 0.433
+
+
+
+    ‖ 26   35   2
+===================
+20  ‖ =    =    f   
+-------------------
+26  ‖      =    f   
+-------------------
+35  ‖           f   
+
+Vertical support: 0.433
+
+
+
+    ‖ 6
+=========
+26  ‖ =   
+
+Vertical support: 0.432
+
+
+
+    ‖ 12
+==========
+12  ‖ <    
+
+Vertical support: 0.431
+
+
+
+    ‖ 20
+==========
+26  ‖ f    
+
+Vertical support: 0.428
+
+
+
+   ‖ 3   2
+============
+1  ‖ m   <   
+------------
+3  ‖     m   
+
+Vertical support: 0.426
+
+
+
+    ‖ 2
+=========
+11  ‖ f   
+
+Vertical support: 0.424
+
+
+
+    ‖ 2
+=========
+14  ‖ <   
+
+Vertical support: 0.423
+
+
+
+    ‖ 15
+==========
+14  ‖ m    
+
+Vertical support: 0.421
+
+
+
+    ‖ 2
+=========
+23  ‖ f   
+
+Vertical support: 0.421
+
+
+
+    ‖ 26   3
+==============
+20  ‖ =    c   
+--------------
+26  ‖      c   
+
+Vertical support: 0.417
+
+
+
+    ‖ 29
+==========
+12  ‖ <    
+
+Vertical support: 0.417
+
+
+
+   ‖ 1   2
+============
+1  ‖ <   <   
+------------
+1  ‖     <   
+
+Vertical support: 0.415
+
+
+
+    ‖ 26   1
+==============
+20  ‖ =    c   
+--------------
+26  ‖      c   
+
+Vertical support: 0.415
+
+
+
+    ‖ 11
+==========
+23  ‖ f    
+
+Vertical support: 0.413
+
+
+
+    ‖ 10
+==========
+10  ‖ <    
+
+Vertical support: 0.413
+
+
+
+    ‖ 1   2
+=============
+26  ‖ c   f   
+-------------
+1   ‖     m   
+
+Vertical support: 0.413
+
+
+
+    ‖ 2
+=========
+11  ‖ =   
+
+Vertical support: 0.412
+
+
+
+    ‖ 10
+==========
+20  ‖ c    
+
+Vertical support: 0.412
+
+
+
+   ‖ 10
+=========
+6  ‖ c    
+
+Vertical support: 0.411
+
+
+
+    ‖ 3   29
+==============
+26  ‖ c   f    
+--------------
+3   ‖     <    
+
+Vertical support: 0.41
+
+
+
+    ‖ 3   1
+=============
+26  ‖ c   c   
+-------------
+3   ‖     <   
+
+Vertical support: 0.409
+
+
+
+    ‖ 35   11
+===============
+20  ‖ =    f    
+---------------
+35  ‖      f    
+
+Vertical support: 0.408
+
+
+
+    ‖ 12
+==========
+20  ‖ c    
+
+Vertical support: 0.408
+
+
+
+    ‖ 1   29
+==============
+26  ‖ c   f    
+--------------
+1   ‖     <    
+
+Vertical support: 0.408
+
+
+
+    ‖ 33   10
+===============
+26  ‖ =    c    
+---------------
+33  ‖      c    
+
+Vertical support: 0.408
+
+
+
+    ‖ 26   35   11
+====================
+20  ‖ =    =    f    
+--------------------
+26  ‖      =    f    
+--------------------
+35  ‖           f    
+
+Vertical support: 0.407
+
+
+
+    ‖ 26   2
+==============
+1   ‖ s    <   
+--------------
+26  ‖      f   
+
+Vertical support: 0.406
+
+
+
+    ‖ 3   1
+=============
+35  ‖ c   c   
+-------------
+3   ‖     m   
+
+Vertical support: 0.406
+
+
+
+    ‖ 26   3
+==============
+23  ‖ =    c   
+--------------
+26  ‖      c   
+
+Vertical support: 0.405
+
+
+
+    ‖ 3
+=========
+29  ‖ c   
+
+Vertical support: 0.404
+
+
+
+   ‖ 3   2
+============
+3  ‖ <   <   
+------------
+3  ‖     <   
+
+Vertical support: 0.403
+
+
+
+   ‖ 3   1
+============
+1  ‖ <   <   
+------------
+3  ‖     m   
+
+Vertical support: 0.403
+
+
+
+    ‖ 26   1
+==============
+23  ‖ =    c   
+--------------
+26  ‖      c   
+
+Vertical support: 0.403
+
+
+
+    ‖ 33   3   1
+==================
+26  ‖ =    c   c   
+------------------
+33  ‖      c   c   
+------------------
+3   ‖          m   
+
+Vertical support: 0.403
+
+
+
+    ‖ 33   12
+===============
+26  ‖ =    c    
+---------------
+33  ‖      c    
+
+Vertical support: 0.403
+
+
+
+    ‖ 3
+=========
+17  ‖ c   
+
+Vertical support: 0.4
+
+
+
+All TIRP nodes:  151
+
+ 8559 s

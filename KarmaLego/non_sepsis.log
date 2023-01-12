@@ -1,0 +1,194 @@
+Number of entities: 3000
+Valid tirp: 
+event: ['1', '26'], temporal relation: s
+event: ['1', '2'], temporal relation: m
+event: ['1', '12'], temporal relation: m
+event: ['1', '3'], temporal relation: <
+event: ['1', '2'], temporal relation: <
+event: ['1', '1'], temporal relation: <
+event: ['1', '15'], temporal relation: <
+event: ['1', '10'], temporal relation: <
+event: ['1', '14'], temporal relation: <
+event: ['1', '11'], temporal relation: <
+event: ['1', '20'], temporal relation: <
+event: ['1', '29'], temporal relation: <
+event: ['11', '3'], temporal relation: <
+event: ['11', '2'], temporal relation: <
+event: ['11', '1'], temporal relation: <
+event: ['11', '10'], temporal relation: <
+event: ['11', '11'], temporal relation: <
+event: ['28', '1'], temporal relation: <
+event: ['28', '2'], temporal relation: <
+event: ['28', '3'], temporal relation: <
+event: ['28', '10'], temporal relation: <
+event: ['28', '11'], temporal relation: <
+event: ['14', '3'], temporal relation: c
+event: ['14', '1'], temporal relation: c
+event: ['14', '15'], temporal relation: m
+event: ['14', '10'], temporal relation: <
+event: ['14', '1'], temporal relation: <
+event: ['14', '3'], temporal relation: <
+event: ['14', '14'], temporal relation: <
+event: ['14', '11'], temporal relation: <
+event: ['14', '29'], temporal relation: <
+event: ['14', '2'], temporal relation: <
+event: ['17', '3'], temporal relation: c
+event: ['17', '1'], temporal relation: c
+event: ['23', '26'], temporal relation: =
+event: ['23', '12'], temporal relation: c
+event: ['23', '3'], temporal relation: c
+event: ['23', '1'], temporal relation: c
+event: ['23', '10'], temporal relation: c
+event: ['23', '11'], temporal relation: f
+event: ['23', '29'], temporal relation: f
+event: ['23', '2'], temporal relation: f
+event: ['26', '33'], temporal relation: =
+event: ['26', '35'], temporal relation: =
+event: ['26', '2'], temporal relation: c
+event: ['26', '12'], temporal relation: c
+event: ['26', '3'], temporal relation: c
+event: ['26', '30'], temporal relation: c
+event: ['26', '1'], temporal relation: c
+event: ['26', '10'], temporal relation: c
+event: ['26', '14'], temporal relation: f
+event: ['26', '11'], temporal relation: f
+event: ['26', '20'], temporal relation: f
+event: ['26', '29'], temporal relation: f
+event: ['26', '2'], temporal relation: f
+event: ['33', '12'], temporal relation: c
+event: ['33', '3'], temporal relation: c
+event: ['33', '1'], temporal relation: c
+event: ['33', '10'], temporal relation: c
+event: ['33', '11'], temporal relation: f
+event: ['33', '29'], temporal relation: f
+event: ['33', '2'], temporal relation: f
+event: ['35', '12'], temporal relation: c
+event: ['35', '3'], temporal relation: c
+event: ['35', '1'], temporal relation: c
+event: ['35', '10'], temporal relation: c
+event: ['12', '10'], temporal relation: m
+event: ['12', '1'], temporal relation: <
+event: ['12', '3'], temporal relation: <
+event: ['12', '14'], temporal relation: <
+event: ['12', '11'], temporal relation: <
+event: ['12', '20'], temporal relation: <
+event: ['12', '29'], temporal relation: <
+event: ['12', '2'], temporal relation: <
+event: ['3', '2'], temporal relation: m
+event: ['3', '1'], temporal relation: <
+event: ['3', '2'], temporal relation: <
+event: ['3', '3'], temporal relation: <
+event: ['3', '15'], temporal relation: <
+event: ['3', '10'], temporal relation: <
+event: ['3', '14'], temporal relation: <
+event: ['3', '11'], temporal relation: <
+event: ['3', '20'], temporal relation: <
+event: ['3', '29'], temporal relation: <
+event: ['30', '2'], temporal relation: <
+event: ['1', '3'], temporal relation: m
+event: ['3', '1'], temporal relation: m
+event: ['15', '14'], temporal relation: m
+event: ['10', '11'], temporal relation: m
+event: ['10', '2'], temporal relation: <
+event: ['20', '29'], temporal relation: =
+event: ['20', '2'], temporal relation: f
+event: ['29', '2'], temporal relation: f
+event: ['12', '12'], temporal relation: <
+event: ['12', '10'], temporal relation: <
+event: ['12', '5'], temporal relation: <
+event: ['3', '26'], temporal relation: s
+event: ['3', '12'], temporal relation: <
+event: ['3', '5'], temporal relation: <
+event: ['26', '14'], temporal relation: c
+event: ['26', '28'], temporal relation: c
+event: ['10', '12'], temporal relation: m
+event: ['10', '10'], temporal relation: <
+event: ['10', '3'], temporal relation: <
+event: ['10', '1'], temporal relation: <
+event: ['10', '12'], temporal relation: <
+event: ['10', '5'], temporal relation: <
+event: ['10', '29'], temporal relation: <
+event: ['10', '20'], temporal relation: <
+event: ['10', '14'], temporal relation: <
+event: ['10', '11'], temporal relation: <
+event: ['1', '10'], temporal relation: m
+event: ['1', '12'], temporal relation: <
+event: ['1', '5'], temporal relation: <
+event: ['12', '3'], temporal relation: m
+event: ['30', '1'], temporal relation: <
+event: ['30', '3'], temporal relation: <
+event: ['14', '12'], temporal relation: <
+event: ['20', '1'], temporal relation: c
+event: ['20', '3'], temporal relation: c
+event: ['20', '12'], temporal relation: c
+event: ['20', '11'], temporal relation: f
+event: ['29', '3'], temporal relation: c
+event: ['29', '1'], temporal relation: c
+event: ['29', '11'], temporal relation: f
+event: ['12', '11'], temporal relation: m
+event: ['1', '7'], temporal relation: s
+event: ['1', '5'], temporal relation: m
+event: ['1', '9'], temporal relation: <
+event: ['1', '6'], temporal relation: <
+event: ['1', '7'], temporal relation: <
+event: ['11', '12'], temporal relation: <
+event: ['6', '5'], temporal relation: m
+event: ['6', '1'], temporal relation: <
+event: ['6', '3'], temporal relation: <
+event: ['7', '3'], temporal relation: c
+event: ['20', '26'], temporal relation: =
+event: ['20', '10'], temporal relation: c
+event: ['26', '5'], temporal relation: c
+event: ['3', '9'], temporal relation: <
+event: ['3', '6'], temporal relation: <
+event: ['3', '7'], temporal relation: <
+event: ['5', '6'], temporal relation: m
+event: ['5', '3'], temporal relation: <
+event: ['5', '5'], temporal relation: <
+event: ['5', '11'], temporal relation: <
+event: ['5', '2'], temporal relation: <
+event: ['13', '14'], temporal relation: m
+event: ['3', '6'], temporal relation: m
+event: ['3', '7'], temporal relation: m
+event: ['9', '7'], temporal relation: m
+event: ['28', '29'], temporal relation: m
+event: ['6', '3'], temporal relation: c
+event: ['6', '1'], temporal relation: c
+event: ['6', '12'], temporal relation: c
+event: ['10', '3'], temporal relation: m
+event: ['5', '10'], temporal relation: <
+event: ['5', '1'], temporal relation: <
+event: ['5', '12'], temporal relation: <
+event: ['6', '10'], temporal relation: c
+event: ['3', '20'], temporal relation: s
+event: ['12', '1'], temporal relation: m
+event: ['3', '10'], temporal relation: m
+Event:
+7
+16
+12
+20
+35
+32
+1
+3
+13
+34
+23
+6
+30
+10
+17
+28
+33
+8
+15
+26
+18
+29
+14
+9
+2
+11
+5
+karma finish
