@@ -1,0 +1,170 @@
+Number of entities: 19191
+Valid tirp: 
+event: ['3', '3'], temporal relation: <
+event: ['17', '8'], temporal relation: =
+event: ['17', '3'], temporal relation: c
+event: ['8', '3'], temporal relation: c
+event: ['17', '1'], temporal relation: c
+event: ['17', '3'], temporal relation: f
+event: ['8', '1'], temporal relation: c
+event: ['1', '3'], temporal relation: <
+event: ['1', '3'], temporal relation: m
+event: ['1', '1'], temporal relation: <
+event: ['3', '1'], temporal relation: m
+event: ['17', '1'], temporal relation: f
+event: ['3', '1'], temporal relation: <
+Event:
+17
+3
+11
+12
+8
+6
+15
+5
+1
+10
+14
+2
+karma finish
+lego finish
+karmalego finish
+
+
+   ‖ 1
+========
+3  ‖ m   
+
+Vertical support: 0.808
+
+
+
+   ‖ 3
+========
+1  ‖ m   
+
+Vertical support: 0.79
+
+
+
+    ‖ 3
+=========
+17  ‖ c   
+
+Vertical support: 0.689
+
+
+
+    ‖ 1
+=========
+17  ‖ c   
+
+Vertical support: 0.684
+
+
+
+   ‖ 3
+========
+3  ‖ <   
+
+Vertical support: 0.649
+
+
+
+   ‖ 1
+========
+1  ‖ <   
+
+Vertical support: 0.638
+
+
+
+    ‖ 8
+=========
+17  ‖ =   
+
+Vertical support: 0.585
+
+
+
+   ‖ 1   3
+============
+3  ‖ m   <   
+------------
+1  ‖     m   
+
+Vertical support: 0.538
+
+
+
+   ‖ 3   1
+============
+1  ‖ m   <   
+------------
+3  ‖     m   
+
+Vertical support: 0.536
+
+
+
+   ‖ 3
+========
+8  ‖ c   
+
+Vertical support: 0.46
+
+
+
+   ‖ 1
+========
+8  ‖ c   
+
+Vertical support: 0.456
+
+
+
+   ‖ 3
+========
+1  ‖ <   
+
+Vertical support: 0.414
+
+
+
+    ‖ 3
+=========
+17  ‖ f   
+
+Vertical support: 0.41
+
+
+
+    ‖ 1
+=========
+17  ‖ f   
+
+Vertical support: 0.409
+
+
+
+   ‖ 1
+========
+3  ‖ <   
+
+Vertical support: 0.406
+
+
+
+    ‖ 8   3
+=============
+17  ‖ =   c   
+-------------
+8   ‖     c   
+
+Vertical support: 0.401
+
+
+
+All TIRP nodes:  16
+
+ 31091 s
